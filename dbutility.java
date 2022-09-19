@@ -1,6 +1,5 @@
 hi
 hello
-update in file
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12,6 +11,3 @@ how r u
 >>>>>>> parent of 579e077 (Update dbutility.java)
 =======
 >>>>>>> parent of 579e077 (Update dbutility.java)
-	>>>>>>>
-	>>>>>>>
-	>>>>>>>
